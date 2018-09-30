@@ -1,0 +1,9 @@
+Building Binarycoin
+
+See doc/readme-qt.rst for instructions on building Binarycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Binarycoin.
+
+See doc/build-*.txt for instructions on building binarycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Binarycoin.
